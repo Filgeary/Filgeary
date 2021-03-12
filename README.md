@@ -6,7 +6,8 @@
 - interests ----- Infinity
 - job salary ----- NaN
 - girlfriend ----- undefined
-- :octocat: :octocat: :octocat:
+
+:octocat: :octocat: :octocat:
 
 <!---
 Filgeary/Filgeary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
