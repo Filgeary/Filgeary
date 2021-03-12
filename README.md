@@ -2,10 +2,10 @@
 - :cyclone: I’m interested in Front-End
 - :electron: I’m currently learning JavaScript
 > info
-- Education ----- Null
-- Interests ----- Infinity
-- Job Salary ----- NaN
-- Girlfriend ----- undefined
+- education ----- Null
+- interests ----- Infinity
+- job salary ----- NaN
+- girlfriend ----- undefined
 - :octocat: :octocat: :octocat:
 
 <!---
