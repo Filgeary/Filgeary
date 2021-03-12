@@ -1,6 +1,4 @@
 - :ru: Hi, I’m @Filgeary
-- :cyclone: I’m interested in Front-End
-- :electron: I’m currently learning JavaScript
 > info
 - education ----- Null
 - interests ----- Infinity
