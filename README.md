@@ -1,9 +1,9 @@
 - :ru: Hi, I’m @Filgeary
-> info
-- education ----- Null
-- interests ----- Infinity
+> bio
+- job experience ----- Null
+- interests ----- +Infinity
 - job salary ----- NaN
-- girlfriend ----- undefined
+- girlfriend ----- undefined :trollface:
 
 :octocat: :octocat: :octocat:
 
