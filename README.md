@@ -1,9 +1,10 @@
 - :ru: Hi, I’m @Filgeary
 > bio
-- job experience ----- Null
-- interests ----- +Infinity
-- job salary ----- NaN
-- girlfriend ----- undefined :trollface:
+- job experience >>> Null
+- interests >>> +Infinity
+- job salary >>> NaN
+- girlfriend >>> undefined :trollface:
+- how much you write JS code? >>> yes 🙃
 
 :octocat: :octocat: :octocat:
 
