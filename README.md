@@ -4,7 +4,7 @@
 - interests >>> +Infinity
 - job salary >>> NaN
 - girlfriend >>> undefined :trollface:
-- how much you write JS code? >>> BigInt 🙃
+- how much you write JS code? >>> yes 🙃
 
 :octocat: :octocat: :octocat:
 
