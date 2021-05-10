@@ -1,10 +1,11 @@
 - :ru: Hi, I’m @Filgeary
-> bio
+> add info
 - PhD => null
 - interests => +Infinity
 - job salary => NaN
 - girlfriend => undefined :trollface:
 - how much you write JS code? => yes 🙃
+- cool man => Gilfoy 🤓
 
 :octocat: :octocat: :octocat:
 
