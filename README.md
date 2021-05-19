@@ -5,7 +5,7 @@
 - job salary => NaN
 - girlfriend => undefined :trollface:
 - how much you write JS code? => yes 🙃
-- cool man => Gilfoy 🤓
+- cool bro => Gilfoy 🤓
 
 :octocat: :octocat: :octocat:
 
