@@ -6,6 +6,7 @@
 - girlfriend => undefined :trollface:
 - how much you write JS code? => yes 🙃
 - cool bro => Gilfoy 🤓
+- great teacher => David Malan
 
 :octocat: :octocat: :octocat:
 
