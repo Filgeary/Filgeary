@@ -7,7 +7,10 @@
 - cool bro => Gilfoy 🤓
 - great teacher => David Malan
 - JavaScript.prototype = C, SmallTalk, Lisp, Java ...
-- class TypeScript extends JavaScript
+
+```js
+class TypeScript extends JavaScript
+```
 
 :octocat: :octocat: :octocat:
 
