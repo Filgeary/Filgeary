@@ -4,9 +4,10 @@
 - interests => +Infinity
 - job salary => NaN
 - girlfriend => undefined :trollface:
-- how much you write JS code? => yes 🙃
 - cool bro => Gilfoy 🤓
 - great teacher => David Malan
+- JavaScript.prototype = C, SmallTalk, Lisp, Java ...
+- class TypeScript extends JavaScript
 
 :octocat: :octocat: :octocat:
 
