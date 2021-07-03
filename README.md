@@ -9,7 +9,7 @@
 - JavaScript.prototype = C, SmallTalk, Lisp, Java ...
 
 ```js
-class TypeScript extends JavaScript
+// class TypeScript extends JavaScript
 ```
 
 :octocat: :octocat: :octocat:
