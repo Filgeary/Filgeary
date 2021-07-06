@@ -12,6 +12,10 @@
 // class TypeScript extends JavaScript
 ```
 
+```js
+// const Framework = React ? React : Vue || Angular
+```
+
 :octocat: :octocat: :octocat:
 
 <!---
