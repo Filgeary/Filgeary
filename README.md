@@ -5,8 +5,11 @@
 - job salary => NaN
 - girlfriend => undefined :trollface:
 - cool bro => Gilfoy 🤓
-- great teacher => David Malan
-- JavaScript.prototype = C, SmallTalk, Lisp, Java ...
+- great teacher => David Malan 👨‍🏫
+
+```js
+JavaScript.prototype = C, SmallTalk, Lisp, Java ...
+```
 
 ```js
 // class TypeScript extends JavaScript
