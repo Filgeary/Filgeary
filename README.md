@@ -12,11 +12,11 @@ JavaScript.prototype = C, SmallTalk, Lisp, Java ...
 ```
 
 ```js
-// class TypeScript extends JavaScript
+const Framework = React ? React : Vue || Angular
 ```
 
 ```js
-// const Framework = React ? React : Vue || Angular
+// class TypeScript extends JavaScript
 ```
 
 :octocat: :octocat: :octocat:
