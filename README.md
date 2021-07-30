@@ -12,7 +12,7 @@ JavaScript.prototype = C, SmallTalk, Lisp, Java ...
 ```
 
 ```js
-const Framework = React ? React : Vue || Angular
+const Framework_Lib_whatever = React ? React : Vue || Angular
 ```
 
 ```js
