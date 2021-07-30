@@ -8,10 +8,6 @@
 - great teacher => David Malan 👨‍🏫
 
 ```js
-JavaScript.prototype = C, SmallTalk, Lisp, Java ...
-```
-
-```js
 const Framework_Lib_whatever = React ? React : Vue || Angular
 ```
 
