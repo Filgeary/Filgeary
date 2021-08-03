@@ -11,6 +11,10 @@
 const Framework_Lib_whatever = React ? React : Vue || Angular
 ```
 
+```jsx
+React | Mount, Unmount, Update...
+```
+
 ```js
 // class TypeScript extends JavaScript
 ```
