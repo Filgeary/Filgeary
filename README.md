@@ -8,7 +8,7 @@
 - great teacher => David Malan 👨‍🏫
 
 ```js
-Javascript.__proto__ = C, Smalltalk, Lisp, Java...
+JavaScript.__proto__ = C, Smalltalk, Lisp, Java...
 ```
 
 ```js
