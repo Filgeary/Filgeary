@@ -8,7 +8,11 @@
 - great teacher => David Malan 👨‍🏫
 
 ```js
-const Framework_Lib_whatever = React ? React : Vue || Angular
+Javascript.__proto__ = C, Smalltalk, Lisp, Java...
+```
+
+```js
+Framework_Lib_whatever = React ? React : Vue || Angular
 ```
 
 ```jsx
