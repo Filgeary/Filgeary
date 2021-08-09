@@ -16,7 +16,7 @@ Framework_Lib_whatever = React ? React : Vue || Angular
 ```
 
 ```jsx
-React | Mount, Unmount, Update...
+React | Mount, Unmount, Update...hook, hook, hook...
 ```
 
 ```js
