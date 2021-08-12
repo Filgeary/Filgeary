@@ -8,15 +8,11 @@
 - great teacher => David Malan 👨‍🏫
 
 ```js
-JavaScript.__proto__ = C, Smalltalk, Lisp, Java...
-```
-
-```js
 Framework_Lib_whatever = React ? React : Vue || Angular
 ```
 
 ```jsx
-React | Mount, Unmount, Update...hook, hook, hook...
+React | Mount, Unmount, Update... | hook, hook, hook...
 ```
 
 ```js
