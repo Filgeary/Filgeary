@@ -8,6 +8,10 @@
 - great teacher => David Malan 👨‍🏫
 
 ```js
+JavaScript | prototype, object, closure, this, HOF, callback, promise, EventLoop, class?
+```
+
+```js
 View = React ? React : Vue || Angular
 ```
 
