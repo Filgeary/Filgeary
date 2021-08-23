@@ -8,11 +8,15 @@
 - great teacher => David Malan 👨‍🏫
 
 ```js
-Framework_Lib_whatever = React ? React : Vue || Angular
+View = React ? React : Vue || Angular
 ```
 
 ```jsx
 React | Mount, Unmount, Update... | hook, hook, hook...
+```
+
+```jsx
+Redux | action > Reducer > Selector > dispatch > repeat...
 ```
 
 ```js
