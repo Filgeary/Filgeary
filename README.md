@@ -11,10 +11,6 @@
 JavaScript | prototype, object, closure, this, HOF, callback, promise, EventLoop, class?
 ```
 
-```js
-View = React ? React : Vue || Angular
-```
-
 ```jsx
 React | Mount, Unmount, Update... | hook, hook, hook...
 ```
