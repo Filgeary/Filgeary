@@ -20,7 +20,11 @@ Redux | action > Reducer > Selector > dispatch > repeat...
 ```
 
 ```js
-// class TypeScript extends JavaScript
+Tests | // What about Tests? ...
+```
+
+```js
+// TS | class TypeScript extends JavaScript
 ```
 
 :octocat: :octocat: :octocat:
