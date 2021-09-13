@@ -6,6 +6,7 @@
 - girlfriend => undefined :trollface:
 - cool bro => Gilfoy 🤓
 - great teacher => David Malan 👨‍🏫
+- JS Master => Kyle Simpson
 
 ```js
 JavaScript | prototype, object, closure, this, HOF, callback, Promise, EventLoop, class?
