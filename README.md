@@ -8,7 +8,7 @@
 - great teacher => David Malan 👨‍🏫
 
 ```js
-JavaScript | prototype, object, closure, this, HOF, callback, promise, EventLoop, class?
+JavaScript | prototype, object, closure, this, HOF, callback, Promise, EventLoop, class?
 ```
 
 ```jsx
