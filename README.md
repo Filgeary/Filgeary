@@ -6,7 +6,7 @@
 - girlfriend => undefined :trollface:
 - cool bro => Gilfoy 🤓
 - great teacher => David Malan 👨‍🏫
-- You Don't Know JS. - And I don't know JS, yet 😄
+- You Don't Know JS - And I don't know JS, yet 😄
 
 ```js
 JavaScript | prototype, object, closure, this, HOF, callback, Promise, EventLoop, class?
