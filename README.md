@@ -1,15 +1,15 @@
 - :ru: Hi, I’m @Filgeary
-> add info
+> some info
 - PhD => null
 - interests => +Infinity
 - job salary => NaN
 - girlfriend => undefined :trollface:
-- cool bro => Gilfoy 🤓
-- great teacher => David Malan 👨‍🏫
-- You Don't Know JS - And I don't know JS, yet 😄
+- You Don't Know JS => And I don't know JS, yet 😄
+
+![CodeWars](https://www.codewars.com/users/Filgeary/badges/large)
 
 ```js
-JavaScript | prototype, object, closure, this, HOF, callback, Promise, EventLoop, class?
+JavaScript | prototype, object, HOF, closure, this, callback, Promise, EventLoop, class?
 ```
 
 ```jsx
