@@ -9,7 +9,7 @@
 ![CodeWars](https://www.codewars.com/users/Filgeary/badges/large)
 
 ```js
-JavaScript | prototype, object, HOF, closure, this, callback, Promise, EventLoop, class?
+JavaScript | prototype, object, HOF, closure, this, callback, Promise, EventLoop
 ```
 
 ```jsx
