@@ -20,12 +20,12 @@ React | Mount, Unmount, Update... | hook, hook, hook...
 Redux | action > Reducer > Selector > dispatch > repeat...
 ```
 
-```js
-// Tests | What about Tests? ...
+```ts
+TS | superjet class TypeScript extends JavaScript
 ```
 
 ```js
-// TS | class TypeScript extends JavaScript
+// Tests | What about Tests? ...
 ```
 
 :octocat: :octocat: :octocat:
