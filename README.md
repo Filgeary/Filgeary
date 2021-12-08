@@ -21,11 +21,11 @@ Redux | action > Reducer > Selector > dispatch > repeat...
 ```
 
 ```ts
-TS | superjet class TypeScript extends JavaScript
+TS | superjet TypeScript extends JavaScript
 ```
 
-```js
-// Tests | What about Tests? ...
+```ts
+Tests | test > render > get/find/query > fireEvent > expect > Profit
 ```
 
 :octocat: :octocat: :octocat:
