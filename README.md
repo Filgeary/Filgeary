@@ -1,4 +1,4 @@
-- :ru: Hi, I’m @Filgeary
+- 👋 Hi, I’m @Filgeary
 > some info
 - PhD => null
 - interests => +Infinity
