@@ -4,7 +4,7 @@
 - interests => +Infinity
 - job salary => NaN
 - girlfriend => undefined :trollface:
-- You Don't Know JS => And I don't know JS, yet 😄
+- You Don't Know JS => And I don't know JS, yet 😄 (Hey, Kyle)
 
 ![CodeWars](https://www.codewars.com/users/Filgeary/badges/large)
 
