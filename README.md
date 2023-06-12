@@ -25,7 +25,7 @@ TS | superjet TypeScript extends JavaScript
 ```
 
 ```ts
-Tests | test > render > get/find/query > userEvent > expect > Profit
+Tests | test > render > get/find/query > userEvent > expect > PASS || FAIL
 ```
 
 :octocat: :octocat: :octocat:
