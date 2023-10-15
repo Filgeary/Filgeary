@@ -4,12 +4,12 @@
 - interests => +Infinity
 - job salary => NaN
 - girlfriend => undefined :trollface:
-- You Don't Know JS => And I don't know JS, yet 😄, but I'm trying (thx Kyle)
+- You Don't Know JS => And I don't know JS, yet 😄, but I'm trying sooo much...
 
 ![CodeWars](https://www.codewars.com/users/Filgeary/badges/large)
 
 ```js
-JavaScript | prototype, object, HOF, closure, this, callback, Promise, EventLoop
+JS | prototype, object, HOF, closure, this, callback, Promise, async, EventLoop
 ```
 
 ```jsx
