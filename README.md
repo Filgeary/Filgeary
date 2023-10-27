@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Filgeary
+- 👋 Hi, I’m Gosha
+- 🔥 I'm looking for a Job! [Telegram](https://t.me/Filgeary)
+
 > some info
+
 - PhD => null
 - interests => +Infinity
 - job salary => NaN
