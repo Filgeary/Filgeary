@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Gosha
-- 🔥 I'm looking for a Job! [Telegram](https://t.me/Filgeary)
 
 > some info
 
